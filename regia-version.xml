@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.27</version>
+    <version>1.0.28</version>
     <url>https://github.com/collagefm23/congsuite-releases/releases/download/v1.0.27/Regia_Setup_1.0.27.exe</url>
     <changelog>
-- Aggiunto pulsante "Controlla Aggiornamenti" nelle Impostazioni
-- Aggiunto indicatore pallino rosso su Settings quando disponibile aggiornamento
+- Test auto-update
     </changelog>
     <mandatory>false</mandatory>
 </item>
