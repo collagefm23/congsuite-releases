@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>1.0.26</version>
+    <url>https://github.com/collagefm23/congsuite-releases/releases/download/v1.0.26/Regia_Setup_1.0.26.exe</url>
+    <changelog>
+- Migliorata ricerca sorgenti NDI remote
+- Aggiunto supporto per IP manuali NDI
+- Fix bug Finder NDI
+- Aggiunto sistema auto-update
+    </changelog>
+    <mandatory>false</mandatory>
+</item>

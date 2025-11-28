@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>1.1.4</version>
+    <url>https://github.com/collagefm23/congsuite-releases/releases/download/v1.1.4/Totem_Setup_1.1.4.exe</url>
+    <changelog>
+- Aggiunta persistenza configurazione Event ID
+- Migliorato debug interventi
+- Aggiunto sistema auto-update
+    </changelog>
+    <mandatory>false</mandatory>
+</item>
