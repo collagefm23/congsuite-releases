@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.1</version>
-    <url>https://github.com/collagefm23/congsuite-releases/releases/download/v1.0.1-slidecenter/SlideCenter_Setup_1.0.1.exe</url>
+    <version>1.1.1</version>
+    <url>https://github.com/collagefm23/congsuite-releases/releases/download/v1.1.1-slidecenter/SlideCenter_Setup_1.1.1.exe</url>
     <changelog>
-- Aggiunto sistema auto-update
+- Aggiunto pulsante Controlla Aggiornamenti nel menu Impostazioni
+- Aggiunta funzionalità Zoom speaker con stato blu
+- Fix sincronizzazione con Regia
     </changelog>
     <mandatory>false</mandatory>
 </item>
