@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.27</version>
-    <url>https://github.com/collagefm23/congsuite-releases/releases/download/v1.0.27/Regia_Setup_1.0.27.exe</url>
-    <changelog>
-- Aggiunto pulsante Controlla Aggiornamenti nelle Impostazioni
-- Aggiunto indicatore pallino rosso su Settings quando disponibile aggiornamento
-- Fix reset anteprima IN ONDA quando si preme ESC
-    </changelog>
+    <version>1.0.29</version>
+    <url>https://github.com/collagefm23/congsuite-releases/releases/download/v1.0.29/Regia_Setup_1.0.29.exe</url>
+    <changelog>NovitÃ  versione 1.0.29:
+- Aggiunto supporto icone Audio/Video nel TreeView
+- Miglioramento rendering emoji con font Segoe UI Emoji</changelog>
     <mandatory>false</mandatory>
 </item>
