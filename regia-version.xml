@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.29</version>
-    <url>https://github.com/collagefm23/congsuite-releases/releases/download/v1.0.29/Regia_Setup_1.0.29.exe</url>
-    <changelog>NovitÃ  versione 1.0.29:
-- Aggiunto supporto icone Audio/Video nel TreeView
-- Miglioramento rendering emoji con font Segoe UI Emoji</changelog>
+    <version>1.0.30</version>
+    <url>https://github.com/collagefm23/congsuite-releases/releases/download/v1.0.30/Regia_Setup_1.0.30.exe</url>
+    <changelog>NovitÃ  versione 1.0.30:
+- Fix: Timer control panel ora si aggiorna correttamente
+- Aggiunto pulsante svuota lista Podium Remote</changelog>
     <mandatory>false</mandatory>
 </item>
