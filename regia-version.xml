@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.30</version>
-    <url>https://github.com/collagefm23/congsuite-releases/releases/download/v1.0.30/Regia_Setup_1.0.30.exe</url>
-    <changelog>NovitÃ  versione 1.0.30:
-- Fix: Timer control panel ora si aggiorna correttamente
-- Aggiunto pulsante svuota lista Podium Remote</changelog>
+    <version>1.0.31</version>
+    <url>https://github.com/collagefm23/congsuite-releases/releases/download/v1.0.31/Regia_Setup_1.0.31.exe</url>
+    <changelog>NovitÃ  versione 1.0.31:
+- Fix: Colore timer nel control panel ora Ã¨ bianco</changelog>
     <mandatory>false</mandatory>
 </item>
