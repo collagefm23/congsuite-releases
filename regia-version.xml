@@ -2,7 +2,14 @@
 <item>
     <version>1.0.31</version>
     <url>https://github.com/collagefm23/congsuite-releases/releases/download/v1.0.31/Regia_Setup_1.0.31.exe</url>
-    <changelog>NovitÃ  versione 1.0.31:
-- Fix: Colore timer nel control panel ora Ã¨ bianco</changelog>
+    <changelog>
+- Nuova interfaccia a card per interventi (sostituito TreeView)
+- Tab per giornate con card colorate per sessioni
+- Tema scuro migliorato con bottoni flat moderni
+- Indicatori di stato: cerchio colorato, NDI, Zoom
+- Menu contestuale completo su tasto destro
+- Colore timer corretto (bianco)
+- Fix pulsante X ricerca
+    </changelog>
     <mandatory>false</mandatory>
 </item>
