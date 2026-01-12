@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.31</version>
-    <url>https://github.com/collagefm23/congsuite-releases/releases/download/v1.0.31/Regia_Setup_1.0.31.exe</url>
-    <changelog>
-- Nuova interfaccia a card per interventi (sostituito TreeView)
-- Tab per giornate con card colorate per sessioni
-- Tema scuro migliorato con bottoni flat moderni
-- Indicatori di stato: cerchio colorato, NDI, Zoom
-- Menu contestuale completo su tasto destro
-- Colore timer corretto (bianco)
-- Fix pulsante X ricerca
-    </changelog>
+    <version>1.0.32</version>
+    <url>https://github.com/collagefm23/congsuite-releases/releases/download/v1.0.32/Regia_Setup_1.0.32.exe</url>
+    <changelog>Novita versione 1.0.32:
+- Nuovo sistema tema centralizzato Material Design
+- Impostazioni completamente ridisegnate con layout moderno
+- Selettore sorgenti NDI con card layout e animazioni
+- Finestra Log con syntax highlighting, filtri e ricerca
+- Controlli UI moderni con bordi arrotondati e ombre
+- Palette colori professionale consistente</changelog>
     <mandatory>false</mandatory>
 </item>
